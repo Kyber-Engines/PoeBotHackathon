@@ -1,8 +1,8 @@
 # PoeBotHackathon
 
-First Team up for Team Kyber
+First Team-up for TeamKyber
 
-## Team Kyber
+## TeamKyber
 
 A forbidable tema
 
